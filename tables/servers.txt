@@ -541,3 +541,27 @@ serverEncoding Western
 charBlockSize 112
 chatLangCode 0
 addTableFolders pserver/AegisRO;eA;kRO/RagexeRE_2010_07_14a;translated/kRO_english;kRO
+
+[RO-EDEN-primary]
+ip 119.81.9.66
+port 21603
+private 1
+master_version 14
+version 26
+serverType kRO_RagexeRE_2012_04_10a
+serverEncoding Thai
+charBlockSize 112
+chatLangCode 0
+addTableFolders pserver/EdenRO;eA;kRO/RagexeRE_2012_04_10a;translated/kRO_english;kRO
+
+[RO-EDEN-backup]
+ip 209.58.162.202
+port 21603
+private 1
+master_version 14
+version 26
+serverType kRO_RagexeRE_2012_04_10a
+serverEncoding Thai
+charBlockSize 112
+chatLangCode 0
+addTableFolders pserver/EdenRO;eA;kRO/RagexeRE_2012_04_10a;translated/kRO_english;kRO

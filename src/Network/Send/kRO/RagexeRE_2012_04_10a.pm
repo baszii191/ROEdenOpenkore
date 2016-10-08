@@ -78,6 +78,7 @@ sub new {
 		storage_item_remove 08A6
 		sync 0886
 		party_join_request_by_name 091C
+		character_move 0437
 	);
 	$self->{packet_lut}{$_} = $handlers{$_} for keys %handlers;
 	
